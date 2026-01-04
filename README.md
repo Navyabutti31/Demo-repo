@@ -1,4 +1,4 @@
 # Demo-repo
 Demo Repository
 <br>
-Author-Navya
+Author-Navya (Navya)
